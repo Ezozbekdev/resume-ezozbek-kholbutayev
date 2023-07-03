@@ -19,6 +19,10 @@ MARS TEACH TEAM @ Backend Developer
 Robotics Academy's web project
 I wrote the website backend for Robotics Academy. I also deployed this project to digitalocean. 3 people participated in this project. I wrote the backend of this project completely myself. Unfortunately, this project was removed from the server by Robotics-academy for some reasons
 
+@ Diary @ Main Backend Developer
+Diary this is my new big project and i am the main developer in the project and 
+i use django and rest framework i used postgresql database in this project and i wrote other files than django itself for example signals this file when a registered person , 
+that is, it prevents the data from multiplying.
 
 Flixgo @ Backend Developer
 
